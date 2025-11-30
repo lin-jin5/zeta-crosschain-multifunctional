@@ -300,7 +300,9 @@ Open http://localhost:3000
 
 ## 🎥 Demo Video
 
-[Add your demo video link here]
+[![Watch Demo](https://img.youtube.com/vi/Fl6db89IKz8/maxresdefault.jpg)](https://youtu.be/Fl6db89IKz8)
+
+**Watch the full demo**: [https://youtu.be/Fl6db89IKz8](https://youtu.be/Fl6db89IKz8)
 
 ---
 
