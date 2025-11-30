@@ -1,0 +1,5 @@
+Description
+
+Create a Universal App that connects Solana and/or Sui or TON ecosystems through ZetaChain's omnichain infrastructure. Your app must implement meaningful business logic with onCall, onRevert, and onAbort functions, enabling seamless cross-chain interactions that showcase true universal connectivity.   i want you to create a project with this requirements. Import and use ZetaChain contracts and interfaces (Gateway, Universal NFT)
+
+Deploy on ZetaChain testnet. make it having a light background and impressive for a hackathon dont make it too complex just simple prototye that works correctly and created for hackathon
