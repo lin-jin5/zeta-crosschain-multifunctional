@@ -1,4 +1,4 @@
-# ⚡ ZetaChain Cross-Chain Multifunctional NFT Bridge
+
 
 <div align="center">
 
