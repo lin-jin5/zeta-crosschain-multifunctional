@@ -316,23 +316,6 @@ Open http://localhost:3000
 
 ---
 
-## 🔧 Commands
-
-```bash
-# Compile contracts
-npx hardhat compile
-
-# Deploy to testnet
-npx hardhat run scripts/deploy-zeta-nft.js --network zeta_testnet
-
-# Test contract
-npx hardhat run scripts/test-contract.js --network zeta_testnet
-
-# Check transfer status
-npx hardhat run scripts/check-transfer-status.js --network zeta_testnet
-
-# Run frontend
-cd frontend && npm run dev
 ```
 
 ---
